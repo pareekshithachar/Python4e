@@ -15,19 +15,3 @@ for line in handle:
 for i in range(len(y)):
     z=z + int(y[i])
 print(z)
-
-
-#print(x)
-
-
-#import re
-#file = input('Enter file:')
-#hand = open(file)
-#numlist = list()
-
-#for line in handle:
-    #num = re.findall('[0-9]+', line)
-    #n = int(num)
-    #numlist.append(n)
-
-#print(num)
